@@ -17,7 +17,7 @@ metadata:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
-    backstage.io/adr-location: docs/architecture-decisions
+    backstage.io/adr-location: docs/adrs:
 spec:
   type: library
   owner: CNCF
